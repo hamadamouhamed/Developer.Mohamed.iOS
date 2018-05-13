@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0755E8F720A9083F0045B6AC /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0755E8F620A9083F0045B6AC /* README.md */; };
 		C01102442017B1910001CE90 /* Media1.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C01102432017B1910001CE90 /* Media1.xcassets */; };
 		C07694272016938300C5DC57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C07694262016938300C5DC57 /* AppDelegate.swift */; };
 		C07694292016938300C5DC57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C07694282016938300C5DC57 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0755E8F620A9083F0045B6AC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C01102432017B1910001CE90 /* Media1.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media1.xcassets; sourceTree = "<group>"; };
 		C07694232016938300C5DC57 /* TimerApplication.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TimerApplication.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C07694262016938300C5DC57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 			children = (
 				C07694262016938300C5DC57 /* AppDelegate.swift */,
 				C07694282016938300C5DC57 /* ViewController.swift */,
+				0755E8F620A9083F0045B6AC /* README.md */,
 				C076943D2016974B00C5DC57 /* MyCustomButton.swift */,
 				C076943B201693C900C5DC57 /* MyView.swift */,
 				C076942A2016938300C5DC57 /* Main.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				C01102442017B1910001CE90 /* Media1.xcassets in Resources */,
 				C07694342016938300C5DC57 /* LaunchScreen.storyboard in Resources */,
+				0755E8F720A9083F0045B6AC /* README.md in Resources */,
 				C07694312016938300C5DC57 /* Assets.xcassets in Resources */,
 				C076942C2016938300C5DC57 /* Main.storyboard in Resources */,
 			);
